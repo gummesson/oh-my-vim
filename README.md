@@ -1,6 +1,6 @@
 # Oh my Vim!
 
-A list of handy and interesting commands, keystrokes, settings and general tips for (g)[Vim](http://www.vim.org/).
+A list of handy and interesting commands, keystrokes, settings and general tips for [(g)Vim](http://www.vim.org/).
 
 ## Commands
 
