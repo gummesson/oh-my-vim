@@ -114,6 +114,10 @@ Press `SHIFT-K` to lookup the keyword under the cursor.
 
 `set matchtime={number}` sets the tenths of a second to show the matching paren.
 
+### `mousehide`
+
+`set mousehide` hides the mouse pointer when characters are typed.
+
 ### `mousemodel`
 
 `set mousemodel={extend|popup|popup_setpos}` sets the model to use for the mouse.
