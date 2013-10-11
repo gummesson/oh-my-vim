@@ -124,7 +124,7 @@ Press `SHIFT-K` to lookup the keyword under the cursor.
 
 ### `nrformats`
 
-set nrformats={formats} defines what bases Vim will consider for numbers when using the `CTRL-A` and `CTRL-X` commands for adding to and subtracting from a number respectively
+`set nrformats={octal|hex|alpha}` defines what bases Vim will consider for numbers when using the `CTRL-A` and `CTRL-X` commands for adding to and subtracting from a number respectively
 
 ### `numberwidth`
 
