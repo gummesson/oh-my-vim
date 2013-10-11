@@ -162,6 +162,10 @@ Press `SHIFT-K` to lookup the keyword under the cursor.
 
 `set timeoutlen={milliseconds}` sets the time in milliseconds that is waited for a key code or mapped key sequence to complete.
 
+### `virtualedit`
+
+`set virtualedit={block|insert|all|onemore}` sets where the cursor can be positioned when there is no actual character.
+
 ### `wildignore`
 
 `set wildignore+={filetype|folder}` sets a file/folder pattern that will get ignored by Vim.
